@@ -22,8 +22,8 @@ AppAsset::register($this);
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <?php $this->registerCsrfMetaTags() ?>
     <title><?= Html::encode($this->title) ?></title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
+    <meta content="" name="Mohamed">
+    <meta content="" name="Hassan">
     
       <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
@@ -58,7 +58,7 @@ AppAsset::register($this);
 
       <nav class="nav-menu">
         <ul>
-          <li class="active"><a href="index.html"><i class="bx bx-home"></i> <span>Home</span></a></li>
+          <li class="active"><a href=""><i class="bx bx-home"></i> <span>Home</span></a></li>
           <li><a href="#about"><i class="bx bx-user"></i> <span>About</span></a></li>
           <li><a href="#resume"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
           <li><a href="#portfolio"><i class="bx bx-book-content"></i> Portfolio</a></li>
@@ -81,7 +81,7 @@ AppAsset::register($this);
   <footer id="footer">
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>iPortfolio</span></strong>
+        &copy; Copyright <strong><span>Mohamed Hassan</span></strong>
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
