@@ -51,7 +51,7 @@ AppAsset::register($this);
           <a href="https://www.twitter.com/M_amin0001" class="twitter"><i class="bx bxl-twitter"></i></a>
           <a href="https://www.facebook.com/M_amin0001aminmohamedadan" class="facebook"><i class="bx bxl-facebook"></i></a>
           <a href="https://www.instagram.com/amin_de_prince" class="instagram"><i class="bx bxl-instagram"></i></a>
-          <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+          
           <a href="https://www.linkedin.com/in/Mohamed-amin-b214811b6" class="linkedin"><i class="bx bxl-linkedin"></i></a>
         </div>
       </div>
